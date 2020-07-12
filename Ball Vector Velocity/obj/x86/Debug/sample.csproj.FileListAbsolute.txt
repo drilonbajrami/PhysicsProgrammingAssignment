@@ -1,0 +1,14 @@
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\bin\Debug\GXPEngine.exe
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\bin\Debug\GXPEngine.pdb
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\sample.csprojAssemblyReference.cache
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\sample.csproj.CoreCompileInputs.cache
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\GXPEngine.exe
+C:\Users\drilo\Desktop\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\GXPEngine.pdb
+D:\CMGT\Year 1\Quartile 3\Physics Programming\Physics Assignments\Week 1+\003_ball_vector_velocity\bin\Debug\GXPEngine.exe
+D:\CMGT\Year 1\Quartile 3\Physics Programming\Physics Assignments\Week 1+\003_ball_vector_velocity\bin\Debug\GXPEngine.pdb
+D:\CMGT\Year 1\Quartile 3\Physics Programming\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\sample.csprojAssemblyReference.cache
+D:\CMGT\Year 1\Quartile 3\Physics Programming\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\GXPEngine.exe
+D:\CMGT\Year 1\Quartile 3\Physics Programming\Physics Assignments\Week 1+\003_ball_vector_velocity\obj\x86\Debug\GXPEngine.pdb
+C:\Users\drilo\Desktop\PhysicsProgramming\Ball Vector Velocity\obj\x86\Debug\sample.csprojAssemblyReference.cache
+C:\Users\drilo\Desktop\PhysicsProgramming\Ball Vector Velocity\obj\x86\Debug\GXPEngine.exe
+C:\Users\drilo\Desktop\PhysicsProgramming\Ball Vector Velocity\obj\x86\Debug\GXPEngine.pdb

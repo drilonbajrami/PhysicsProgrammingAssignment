@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{92D1A815-3E9A-4FB2-963D-13C4C50B2305}|Default" StartupItem="BouncingSquares.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGame.cs">
+    <Files>
+      <File FileName="MyGame.cs" Line="184" Column="35" />
+      <File FileName="Block.cs" Line="103" Column="1" />
+      <File FileName="Collision.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BouncingSquares PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{92D1A815-3E9A-4FB2-963D-13C4C50B2305}|Default" StartupItem="line_collision_detection.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGame.cs">
+    <Files>
+      <File FileName="Ball.cs" Line="47" Column="29" />
+      <File FileName="MyGame.cs" Line="22" Column="3" />
+      <File FileName="Vec2.cs" Line="14" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.line__collision__detection PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
